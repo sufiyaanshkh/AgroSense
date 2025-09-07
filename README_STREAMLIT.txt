@@ -1,0 +1,1 @@
+Run: pip install scikit-learn pandas joblib streamlit \n then: streamlit run finflow_model/app.py\nEnsure data_core.csv is available if you want to view sample in app.
